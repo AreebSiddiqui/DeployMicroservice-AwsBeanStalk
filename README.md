@@ -4,6 +4,9 @@ Udagram is a simple cloud application developed alongside the Udacity Cloud Engi
 
 In this project a simple micro service is written to filter images and that microservice is deployed on AWS Elastic Beanstalk.
 
+Github Link:
+https://github.com/AreebSiddiqui/udagram-project2
+
 URL:
 http://image-filter-starter-code-dev222222.us-east-1.elasticbeanstalk.com/filteredimage?image_url=
 
