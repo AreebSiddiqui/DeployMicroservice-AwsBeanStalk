@@ -12,3 +12,6 @@ http://image-filter-starter-code-dev222222.us-east-1.elasticbeanstalk.com/filter
 
 Getting an image:
 http://image-filter-starter-code-dev222222.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://www.invent.org/sites/default/files/styles/inductee_detail_media/public/inductees/2019-02/Ritchie%2C-Dennis_b%26w.jpg?h=157d851b&itok=HAZRfT8c
+
+# Update
+Because of limited AWS Educate credit's, the microservice deployment is terminated.
